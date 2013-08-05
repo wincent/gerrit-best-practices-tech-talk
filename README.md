@@ -2,7 +2,7 @@ This was a presentation that I gave at Causes on the subject of best practices
 for Gerrit code review.
 
 - slides exported as HTML from Keynote:
-  http://ghurrell.github.com/gerrit-best-practices-tech-talk
+  http://wincent.github.io/gerrit-best-practices-tech-talk
 - me:
   greg@causes.com
 - our website:
